@@ -1,5 +1,5 @@
 ## Hi there 👋
-# How are you?
+## How are you?
 <!--
 **Yearbook3118/Yearbook3118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
